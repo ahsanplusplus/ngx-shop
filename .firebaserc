@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fir-db3d4": {
+      "hosting": {
+        "demo": [
+          "fir-db3d4"
+        ]
+      }
+    }
+  }
+}
